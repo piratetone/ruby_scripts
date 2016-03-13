@@ -2,6 +2,7 @@ require 'uri'
 require 'open-uri'
 require 'rubyful_soup'
 
+# i am making a comment
 begin
 		print "\n\nEnter website to crawl (ex. http://reddit.com): "
 		url = gets
